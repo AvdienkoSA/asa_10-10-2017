@@ -1,19 +1,17 @@
 {
-  "name": "asa_10-10-2017",
-  "version": "1.0.0",
-  "description": "express",
-  "main": "server.js",
+  "name": "asa-10-10-2017",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "grunt"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AvdienkoSA/asa_10-10-2017.git"
-  },
-  "author": "AvdienkoSA <avdiencko2017@yandex.ru>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AvdienkoSA/asa_10-10-2017/issues"
-  },
-  "homepage": "https://github.com/AvdienkoSA/asa_10-10-2017#readme"
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "hbs": "~4.0.1",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
+  }
 }
