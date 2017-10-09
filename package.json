@@ -1,0 +1,19 @@
+{
+  "name": "asa_10-10-2017",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvdienkoSA/asa_10-10-2017.git"
+  },
+  "author": "AvdienkoSA <avdiencko2017@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvdienkoSA/asa_10-10-2017/issues"
+  },
+  "homepage": "https://github.com/AvdienkoSA/asa_10-10-2017#readme"
+}
